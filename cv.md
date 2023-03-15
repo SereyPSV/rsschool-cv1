@@ -35,5 +35,7 @@ function mergeArrays(arr1, arr2) {
   - **[RS School *- stage 0*](https://rs.school/)**
   - **[Result School *- trainings](https://result.school/)**
 
+
+
 ## **English**
 **A2** *(Communciate in everyday situations with commonly-used expressions and elementary vocabulary)*
